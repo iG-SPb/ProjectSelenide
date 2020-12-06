@@ -87,5 +87,11 @@
             <artifactId>allure-junit5</artifactId>
             <version>2.13.6</version>
         </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-support</artifactId>
+            <version>3.141.59</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 </project>
